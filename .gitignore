@@ -2,6 +2,8 @@ data
 *.csv
 .ipynb_checkpoints
 
+src/mlruns
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
